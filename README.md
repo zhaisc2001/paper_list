@@ -9,3 +9,5 @@ To record the papers I have read and save some notes about these papers.
 [3]Liu, Weiyang, et al. "Sphereface: Deep hypersphere embedding for face recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.[[Notes](https://github.com/zhaisc2001/paper_list/blob/main/master%20thesis/SphereFace:%20Deep%20Hypersphere%20Embedding%20for%20Face%20Recognition.xmind)]
 
 [4]Deng, Jiankang, et al. "Arcface: Additive angular margin loss for deep face recognition." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2019.[[Notes](https://github.com/zhaisc2001/paper_list/blob/main/master%20thesis/ArcFace:%20Additive%20Angular%20Margin%20Loss%20for%20Deep%20Face%20Recognition.xmind)]
+
+[5]Stevens, Eli, Luca Antiga, and Thomas Viehmann. Deep learning with PyTorch. Manning Publications, 2020.[[Ch2](https://github.com/zhaisc2001/paper_list/blob/main/master%20thesis/Pretrained_networks.ipynb)]
